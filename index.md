@@ -7,8 +7,8 @@
 <center>State Key Laboratory of Virology.</center>      
 
 ### RESEARCH INTEREST     
-1. Host innate immunity.
-2. Virus infection. 
+- Host innate immunity.
+- Virus infection. 
 
 ### PUBLICATIONS
 - 
