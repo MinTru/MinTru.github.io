@@ -3,10 +3,9 @@
 <div align=center><img src="./meme.png" style="width:160px;height:224px" ></div>
 
 <center>Ph.D. Candidate,</center>
-<center>Huazhong University of Science and Technology (HUST)</center>
+<center> School of Health Sciences, Wuhan University</center>
 <center>Key Laboratory of Information Storage System, Ministry Of Education</center>
-<center>Wuhan National Laboratory for Optoelectronics (WNLO)</center>
-<center>Intelligent Cloud Storage Joint Research Center of HUST and Tencent Inc.</center>
+<center>State Key Laboratory of Virology</center>      
 
 ### RESEARCH INTEREST     
 1. Hashing encoding with machine learning, deep learning or other AI algorithms.
