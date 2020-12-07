@@ -4,7 +4,7 @@
 
 <center>Ph.D. Candidate,</center>
 <center> School of Health Sciences, Wuhan University,</center>
-<center>State Key Laboratory of Virology,</center>      
+<center>State Key Laboratory of Virology.</center>      
 
 ### RESEARCH INTEREST     
 1. Host innate immunity.
