@@ -15,8 +15,7 @@
 
 ### EDUCATION INFO
 - Sep 2018 - Now. Ph.D. School of Health Sciences, Wuhan University.
-- Sep 2015 - Jun 2018. Master, Hubei Province Key Laboratory of Allergy and Immunology,       
-                               School of Basic Medical Sciences, Wuhan University.
+- Sep 2015 - Jun 2018. Master, Hubei Province Key Laboratory of Allergy and Immunology & School of Basic Medical Sciences, Wuhan University.
 - Sep 2010 - Jun 2015. Bachelor's degree, School of Public Health, Shandong University.
 
 
