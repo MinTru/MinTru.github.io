@@ -2,7 +2,7 @@
 <!--<center><a href="/index-cn.md">中文主页</a></center> -->
 <div align=center><img src="./meme.png" style="width:160px;height:224px" ></div>
 
-<center>Ph.D. Candidate,</center>
+<center>Ph.D.</center>
 <center> School of Health Sciences, Wuhan University,</center>
 <center>State Key Laboratory of Virology.</center>      
 
