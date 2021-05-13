@@ -1,4 +1,4 @@
-<center><b><font size=50>初敏</font></b></center>
+<center><b><font size=35>初 敏</font></b></center>
 
 <div align=center><img src="./meme.png" style="width:160px;height:224px" ></div>
 
