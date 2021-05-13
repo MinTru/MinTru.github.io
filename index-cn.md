@@ -1,7 +1,5 @@
 <center><b><font size=50>初敏</font></b></center>
-
 <div align=center><img src="./meme.png" width="  "></div>
-
 <center>博士研究生,</center>
 <center>武汉大学健康学院，</center>
 <center>病毒学国家重点实验室.</center>
