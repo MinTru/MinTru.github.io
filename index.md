@@ -1,5 +1,5 @@
 <center><b><font size=50>Min Chu</font></b></center>
-<center><a href="/index-cn.md">中文主页</a></center> 
+<center><a href="./index-cn.md">中文主页</a></center> 
 <div align=center><img src="./meme.png" style="width:160px;height:224px" ></div>
 
 <center>Ph.D</center>
