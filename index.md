@@ -16,7 +16,7 @@
 - Zhou B, Chu M, Xu S, Chen X, Liu Y, Wang Z, Zhang F, Han S, Yin J, Peng B, He X, Liu W. [Hsa-let-7c-5p augments enterovirus 71 replication through viral subversion of cell signaling in rhabdomyosarcoma cells.](https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-017-0135-9) Cell Biosci. 2017 Jan 14;7:7. doi: 10.1186/s13578-017-0135-9. PMID: 28101327; PMCID: PMC5237547.
 
 ### EDUCATION INFO
-- Sep 2018 - Jun 2021. Ph.D. School of Health Sciences, Wuhan University.
+- Sep 2018 - Jun 2021. Ph.D，School of Health Sciences, Wuhan University.
 - Sep 2015 - Jun 2018. Master, Hubei Province Key Laboratory of Allergy and Immunology & School of Basic Medical Sciences, Wuhan University.
 - Sep 2010 - Jun 2015. Bachelor's degree, School of Public Health, Shandong University.
 
